@@ -54,5 +54,3 @@ risk segments, and revenue impact.
 - Revenue at risk due to potential churn  
 
 ---
-
-## 📁 Repository Structure
