@@ -1,8 +1,6 @@
-# Customer_Churn_Analysis
-End-to-end customer churn analysis and prediction using  SQL , Python ,and Power BI with business-focused KPI's and dashboards.
-
 # Customer Churn Risk Analysis & Prediction
-
+End-to-end customer churn analysis and prediction using  SQL , Python ,and Power BI with business-focused KPI's and dashboards.
+---
 # Project Overview
 This project focuses on analyzing customer churn behavior and predicting churn risk using SQL, Python, and Power BI.  
 The goal is to identify high-risk customers, estimate revenue at risk, and provide business-ready insights through an interactive dashboard.
